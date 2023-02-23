@@ -28,7 +28,7 @@ require (
 	github.com/src-d/gcfg v1.3.0 // indirect
 	github.com/stretchr/testify v1.3.0
 	github.com/xanzy/ssh-agent v0.1.0 // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	gopkg.in/src-d/go-billy.v4 v4.1.1
 	gopkg.in/src-d/go-git-fixtures.v3 v3.5.0 // indirect
 	gopkg.in/src-d/go-git.v4 v4.4.0
